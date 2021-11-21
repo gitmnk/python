@@ -1,1 +1,1 @@
-# python snippets
+Directory containing standalone python snippets
